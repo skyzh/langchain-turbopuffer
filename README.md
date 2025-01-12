@@ -35,3 +35,9 @@ poetry run python example.py --skip-load
 ```
 
 In the example, you can ask questions like "What is prompt engineering?"
+
+## License
+
+MIT
+
+Note that the `example.py` is from [langchain-risinglight](https://github.com/skyzh/langchain-risinglight) based on several online tutorials (see the file header for more details).
