@@ -1,9 +1,15 @@
 [tool.poetry]
 name = "langchain-turbopuffer"
-version = "0.1.1"
+version = "0.1.2"
 description = "an unofficial langchain binding for turbopuffer"
 authors = ["Alex Chi Z <iskyzh@gmail.com>"]
 readme = "README.md"
+license = "MIT"
+keywords = ["langchain", "turbopuffer", "vector-store"]
+
+[project.urls]
+homepage = "https://github.com/skyzh/langchain-turbopuffer"
+repository = "https://github.com/skyzh/langchain-turbopuffer"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
